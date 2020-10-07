@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6e31f414-7923-4b86-a482-9670b6d8f2b6">
+  <producedTypes>
+    <objectType typeId="e2a12c74-333b-4a02-b9d6-113dd2773748" valueTypeId="57f78f63-a4c8-40b0-bcba-5d42fe0590f1"/>
+  </producedTypes>
+  <name>НастройкаИПросмотрИсторииДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Настройка и просмотр истории данных</value>
+  </synonym>
+  <comment>0.7</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="0399fe01-6118-41cb-aac1-d320f67efaf0"/>
+  <defaultForm>ExternalDataProcessor.НастройкаИПросмотрИсторииДанных.Form.Форма</defaultForm>
+  <forms uuid="7e6cbc5c-8e14-4f7a-9c99-9171ff81ff5f">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="6ce14649-3ced-4ef1-8db5-ea2c42098c11">
+    <name>ФормаУдаленияВерсий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма удаления версий</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="06c29741-70fe-4102-aea2-aacaaecf2724">
+    <name>ФормаСпискаВерсий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка версий</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="5e3c658f-3254-4133-8fb2-3d5f34c9896e">
+    <name>ФормаПореквизитнойНастройки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма пореквизитной настройки</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="1b6e5c4c-f00e-427a-b81a-4f0c25a8054f">
+    <name>ФормаПодробноОбОбъекте</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма подробно об объекте</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="2559aa2e-7939-4908-8496-eef1378e3975">
+    <name>ФормаОбновленияИсторииДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма обновления истории данных</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="9e12d25e-ce08-4d84-a363-ee350371e6ee">
+    <name>ФормаЗаписиТекущихВерсий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма записи текущих версий</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
